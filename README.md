@@ -14,3 +14,9 @@ after this try the below two steps.
 pip install git+https://github.com/huggingface/diffusers
 pip install -U -r diffusers/examples/dreambooth/requirements.txt
 ```
+now after this step you will get diffuser folder in your work space.
+go to the dreambooth folder inside diffuser.
+```
+cd path/diffusers/examples/dreambooth
+```
+replace the  file named 'train_dreambooth_sd3.py' with the file above in the github repo. 

@@ -54,3 +54,8 @@ Below are the key training arguments used when fine-tuning a model using DreamBo
 
 here caption_file create a json file which contain image name as key and caption as values. please see the example of caption.json in this repo.
 instance image I used the rajnikant image provived by you also the crop images of face only.
+The cropped photos you will get in this repo also under the folder task1_facial_expression.
+While you try to run please change the respective path in both train.sh file as well as inference.py file. 
+in inference.py file just write the prompt inside the code and run it will generate the image.
+in train.sh you can give as many arguments possible but carefully change the file name corresponding your envirionment and filename.
+(In case of any issue if you are not able to run please mail me in cs23m011@smail.iitm.ac.in)

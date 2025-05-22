@@ -53,3 +53,4 @@ Below are the key training arguments used when fine-tuning a model using DreamBo
 | `--output_dir` | Directory to save the output model and checkpoints. |
 
 here caption_file create a json file which contain image name as key and caption as values. please see the example of caption.json in this repo.
+instance image I used the rajnikant image provived by you also the crop images of face only.
